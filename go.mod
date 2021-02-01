@@ -59,5 +59,5 @@ require (
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/gorp.v1 v1.7.2 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20190411184413-94d9e492cc53
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.4.0
 )
